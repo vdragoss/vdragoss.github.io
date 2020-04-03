@@ -2,4 +2,4 @@
 
 text text
 
-![photo1](photo.jpg)
+![photo1](Untitled.png)
